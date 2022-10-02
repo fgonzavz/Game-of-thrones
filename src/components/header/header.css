@@ -1,0 +1,12 @@
+
+.header{
+    height: 200px;
+    color: #d6c031;
+    background-color: #000;
+}
+
+.img{
+    display: block;
+ margin: 0px auto;
+    width: 380px;
+}
